@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+#image{
+    width: 100%;
+    border: 5px solid white;
+}
+
+h1{
+    font-size: 80px;
+}
+
+
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: 'Caveat', cursive;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#parag{
+    font-size: 50px;
+}
